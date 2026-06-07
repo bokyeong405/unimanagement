@@ -1,0 +1,24 @@
+# --- 빌드 산출물 ---
+bin/
+*.class
+
+# --- Eclipse 로컬 설정 ---
+.settings/
+
+# --- 외부 라이브러리 (직접 받아 build path에 추가, README 참고) ---
+*.jar
+lib/
+
+# --- 실제 데이터 (개인정보형 더미 — 미포함, data/README.md 참고) ---
+/counsel.txt
+/courseHistory.txt
+/courses.txt
+/employees.txt
+/enrollment.txt
+/professors.txt
+/students.txt
+# (data/*.sample.txt 샘플은 포함)
+
+# --- OS ---
+.DS_Store
+Thumbs.db

@@ -1,0 +1,2 @@
+prof01,교수일,changeme,남,010-0000-1001,prof01@example.com,전자공학과,1001001
+prof02,교수이,changeme,여,010-0000-1002,prof02@example.com,소프트웨어학과,1001002

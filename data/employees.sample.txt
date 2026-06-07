@@ -1,0 +1,2 @@
+emp01,직원일,changeme,남,010-0000-2001,emp01@example.com,공과대학,2001001
+emp02,직원이,changeme,여,010-0000-2002,emp02@example.com,공과대학,2001002
